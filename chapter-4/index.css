@@ -1,0 +1,15 @@
+div{
+    height:200px;
+    width:200px;
+    background-color:rgba(255,0,0,0.3);
+    transition-duration:1s;
+    transition-delay:2s;
+}
+#opacity{
+    background-color:rgba(255,0,0,);
+    opacity:0.3;
+}
+div:hover{
+    background-color:black;
+    border-radius: 50%;
+}
